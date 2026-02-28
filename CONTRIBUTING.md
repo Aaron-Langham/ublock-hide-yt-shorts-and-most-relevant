@@ -2,7 +2,7 @@
 
 I only want to state a couple of rules when submitting a pull request:
 
-## Only include YouTube Shorts
+## Only include YouTube Shorts or "Most Relevant" section
 The function is in the repository name.
 
 ## Never change the metadata on top of the list
